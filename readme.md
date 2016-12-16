@@ -2,26 +2,27 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
-I get a lot of questions by email. This way anyone can read the answer.
+I get <del>a lot</del> of questions by email.
+This way anyone can read the answer.
 
-Anything means anything. Personal questions. Money. Life. Code. Whatever.
+Anything means anything.
+Personal questions.
+Money.
+Life.
+Code.
+Whatever.
 
--
+If they question fits the guidelines laid out below, I'll answer it.
 
 #### Guidelines
 
 - Ensure your question hasn't already been answered.
 - Use a succinct title and description.
-- Bugs & feature requests should be opened on the relevant issue tracker.
-- Support questions are better asked on Stack Overflow.
 - Be civil and polite :)
 - I will not help you with a question that goes against my personal moral standards.
 
--
+*I can also be reached on [Twitter](https://twitter.com/habi) and [email](mailto:ama@davidhaberthuer.ch), but I thought one could try [this medium](https://github.com/habi/ama/issues/new) here.*
 
-*I can also be reached on [Twitter](https://twitter.com/kentcdodds) and [email](mailto:kent+ama@doddsfamily.us), but I prefer [this medium](https://github.com/kentcdodds/ama/issues/new).*
-
--
 
 ### Links
 
